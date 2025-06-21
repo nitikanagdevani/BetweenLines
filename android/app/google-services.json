@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166322395001",
+    "project_id": "betweenlines-abf6d",
+    "storage_bucket": "betweenlines-abf6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166322395001:android:65501147c05455be8a81a8",
+        "android_client_info": {
+          "package_name": "com.example.book_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbth_ts8Wsel8KKIIl6TrQW3VJVsFHZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
